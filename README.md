@@ -8,7 +8,7 @@ I am a third-year student enrolled in the Computer Engineering International Pro
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [rujikornkin96@gmail.com](mailto:rujikornkin96@gmail.com)
-
+* Check out my Portfolio https://kinrujikorn.vercel.app/
 ### Skills
 
 
