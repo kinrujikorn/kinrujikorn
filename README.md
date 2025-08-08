@@ -3,8 +3,7 @@ Hi 👋 My name is Rujikorn Rujitanont
 
 Software Developer
 ------------------
-
-I am a third-year student enrolled in the Computer Engineering International Program at KMUTT. I have experience in process-oriented tasks, am adept at collaborating with others, and I'm committed to continuous self-improvement. Currently, I'm actively seeking work opportunities to further enhance my skills, both in coding and in developing a systematic approach that will be valuable in my future career.
+I graduated from the Computer Engineering International Program at KMUTT. I have experience in process-oriented tasks, am adept at collaborating with others, and I'm committed to continuous self-improvement. Currently, I'm actively seeking work opportunities to further enhance my skills, both in coding and in developing a systematic approach that will be valuable in my future career.
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [rujikornkin96@gmail.com](mailto:rujikornkin96@gmail.com)
